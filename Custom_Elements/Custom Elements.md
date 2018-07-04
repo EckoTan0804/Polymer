@@ -94,7 +94,7 @@ For a complete list of limitations, see [Requirements for custom element constru
 
 Whenever possible, defer work until the `connectedCallback` or later instead of performing it in the constructor. See [Defer non-critical work](https://www.polymer-project.org/3.0/docs/devguide/custom-elements#defer-work) for some suggestions.
 
-![Life_Cycle_Example](assets/Life_Cycle_Example.png)
+![Life_Cycle_Example](../assets/Life_Cycle_Example.png)
 
 
 
